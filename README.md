@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ankitbharambe21
-- 👀 I’m interested in python
-- 🌱 I’m currently learning c,c++,python programming
+- 👀 I’m interested in Java,Web Designing,Python
+- 🌱 I’m currently learning c,c++,Java,Python
 - 💞️ I’m looking to collaborate on instagram
 - 📫 How to reach me @ankit_coding
 
